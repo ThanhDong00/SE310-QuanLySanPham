@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1. Hoc Tap\\1. UIT\\year4 (2024-2025)\\term7\\SE310.P11 (C\u00F4ng ngh\u1EC7 .NET)\\theory\\07. Practice\\QuanLySanPham\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCC8A35-4B9A-491C-AA52-7310BC6B8C70}|QuanLySanPham\\QuanLySanPham.csproj|d:\\1. hoc tap\\1. uit\\year4 (2024-2025)\\term7\\se310.p11 (c\u00F4ng ngh\u1EC7 .net)\\theory\\07. practice\\quanlysanpham\\quanlysanpham\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCC8A35-4B9A-491C-AA52-7310BC6B8C70}|QuanLySanPham\\QuanLySanPham.csproj|solutionrelative:quanlysanpham\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCC8A35-4B9A-491C-AA52-7310BC6B8C70}|QuanLySanPham\\QuanLySanPham.csproj|d:\\1. hoc tap\\1. uit\\year4 (2024-2025)\\term7\\se310.p11 (c\u00F4ng ngh\u1EC7 .net)\\theory\\07. practice\\quanlysanpham\\quanlysanpham\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9CCC8A35-4B9A-491C-AA52-7310BC6B8C70}|QuanLySanPham\\QuanLySanPham.csproj|solutionrelative:quanlysanpham\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCC8A35-4B9A-491C-AA52-7310BC6B8C70}|QuanLySanPham\\QuanLySanPham.csproj|d:\\1. hoc tap\\1. uit\\year4 (2024-2025)\\term7\\se310.p11 (c\u00F4ng ngh\u1EC7 .net)\\theory\\07. practice\\quanlysanpham\\quanlysanpham\\dal\\sanphamdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCC8A35-4B9A-491C-AA52-7310BC6B8C70}|QuanLySanPham\\QuanLySanPham.csproj|solutionrelative:quanlysanpham\\dal\\sanphamdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCC8A35-4B9A-491C-AA52-7310BC6B8C70}|QuanLySanPham\\QuanLySanPham.csproj|d:\\1. hoc tap\\1. uit\\year4 (2024-2025)\\term7\\se310.p11 (c\u00F4ng ngh\u1EC7 .net)\\theory\\07. practice\\quanlysanpham\\quanlysanpham\\controller\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCC8A35-4B9A-491C-AA52-7310BC6B8C70}|QuanLySanPham\\QuanLySanPham.csproj|solutionrelative:quanlysanpham\\controller\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCC8A35-4B9A-491C-AA52-7310BC6B8C70}|QuanLySanPham\\QuanLySanPham.csproj|d:\\1. hoc tap\\1. uit\\year4 (2024-2025)\\term7\\se310.p11 (c\u00F4ng ngh\u1EC7 .net)\\theory\\07. practice\\quanlysanpham\\quanlysanpham\\model\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCC8A35-4B9A-491C-AA52-7310BC6B8C70}|QuanLySanPham\\QuanLySanPham.csproj|solutionrelative:quanlysanpham\\model\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SanPhamController.cs",
+              "DocumentMoniker": "D:\\1. Hoc Tap\\1. UIT\\year4 (2024-2025)\\term7\\SE310.P11 (C\u00F4ng ngh\u1EC7 .NET)\\theory\\07. Practice\\QuanLySanPham\\QuanLySanPham\\Controller\\SanPhamController.cs",
+              "RelativeDocumentMoniker": "QuanLySanPham\\Controller\\SanPhamController.cs",
+              "ToolTip": "D:\\1. Hoc Tap\\1. UIT\\year4 (2024-2025)\\term7\\SE310.P11 (C\u00F4ng ngh\u1EC7 .NET)\\theory\\07. Practice\\QuanLySanPham\\QuanLySanPham\\Controller\\SanPhamController.cs",
+              "RelativeToolTip": "QuanLySanPham\\Controller\\SanPhamController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAkwFkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T13:37:02.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SanPhamDAL.cs",
+              "DocumentMoniker": "D:\\1. Hoc Tap\\1. UIT\\year4 (2024-2025)\\term7\\SE310.P11 (C\u00F4ng ngh\u1EC7 .NET)\\theory\\07. Practice\\QuanLySanPham\\QuanLySanPham\\DAL\\SanPhamDAL.cs",
+              "RelativeDocumentMoniker": "QuanLySanPham\\DAL\\SanPhamDAL.cs",
+              "ToolTip": "D:\\1. Hoc Tap\\1. UIT\\year4 (2024-2025)\\term7\\SE310.P11 (C\u00F4ng ngh\u1EC7 .NET)\\theory\\07. Practice\\QuanLySanPham\\QuanLySanPham\\DAL\\SanPhamDAL.cs",
+              "RelativeToolTip": "QuanLySanPham\\DAL\\SanPhamDAL.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAA3wF4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T13:32:00.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "D:\\1. Hoc Tap\\1. UIT\\year4 (2024-2025)\\term7\\SE310.P11 (C\u00F4ng ngh\u1EC7 .NET)\\theory\\07. Practice\\QuanLySanPham\\QuanLySanPham\\Model\\SanPham.cs",
+              "RelativeDocumentMoniker": "QuanLySanPham\\Model\\SanPham.cs",
+              "ToolTip": "D:\\1. Hoc Tap\\1. UIT\\year4 (2024-2025)\\term7\\SE310.P11 (C\u00F4ng ngh\u1EC7 .NET)\\theory\\07. Practice\\QuanLySanPham\\QuanLySanPham\\Model\\SanPham.cs",
+              "RelativeToolTip": "QuanLySanPham\\Model\\SanPham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T13:30:52.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\1. Hoc Tap\\1. UIT\\year4 (2024-2025)\\term7\\SE310.P11 (C\u00F4ng ngh\u1EC7 .NET)\\theory\\07. Practice\\QuanLySanPham\\QuanLySanPham\\Form1.cs",
+              "RelativeDocumentMoniker": "QuanLySanPham\\Form1.cs",
+              "ToolTip": "D:\\1. Hoc Tap\\1. UIT\\year4 (2024-2025)\\term7\\SE310.P11 (C\u00F4ng ngh\u1EC7 .NET)\\theory\\07. Practice\\QuanLySanPham\\QuanLySanPham\\Form1.cs*",
+              "RelativeToolTip": "QuanLySanPham\\Form1.cs*",
+              "ViewState": "AgIAALIAAAAAAAAAAAAhwMoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T13:18:12.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\1. Hoc Tap\\1. UIT\\year4 (2024-2025)\\term7\\SE310.P11 (C\u00F4ng ngh\u1EC7 .NET)\\theory\\07. Practice\\QuanLySanPham\\QuanLySanPham\\Form1.cs",
+              "RelativeDocumentMoniker": "QuanLySanPham\\Form1.cs",
+              "ToolTip": "D:\\1. Hoc Tap\\1. UIT\\year4 (2024-2025)\\term7\\SE310.P11 (C\u00F4ng ngh\u1EC7 .NET)\\theory\\07. Practice\\QuanLySanPham\\QuanLySanPham\\Form1.cs [Design]*",
+              "RelativeToolTip": "QuanLySanPham\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:14:09.945Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
